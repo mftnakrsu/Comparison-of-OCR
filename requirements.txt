@@ -1,0 +1,5 @@
+matplotlib
+easyocr
+opencv_python_headless
+numpy
+pytesseract
