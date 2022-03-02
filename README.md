@@ -13,6 +13,23 @@ OCR (Optical Character Recognition) is a technology that enables the conversion 
 
     python main.py
     
+ Also you can check the result by one by like:
+
+You have to initilaze your object.  
+
+    ocr=OCR(image_folder="test/")  
+
+After that, for **keras ocr**:  
+
+    ocr.keras_ocr_works()
+    
+for **easyocr**:
+
+    ocr.easyocr_model_works()  
+for **pytesseract**:
+
+    ocr.pytesseract_model_works()
+
  ## Results
  ![kerasocr1](https://user-images.githubusercontent.com/57320216/156442703-ff06fce6-174a-4859-9d45-b32b4187b1d5.png)
 ![kerasocr2](https://user-images.githubusercontent.com/57320216/156442709-cea41264-e369-48a3-92b0-afa752c313fb.png)
