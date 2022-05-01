@@ -4,6 +4,15 @@ OCR (Optical Character Recognition) is a technology that enables the conversion 
 
 ![robot](https://user-images.githubusercontent.com/57320216/156442638-c681624f-a8cd-45ed-a4cc-8a626d295f46.jpg)
 
+# Table of Content
+- [Optical Character Recognition](#optical-character-recognition)
+
+  * [Requirements](#requirements)
+  * [Usage](#usage)
+  * [Results](#results)
+  * [Conclusion](#conclusion)
+  * [Source](#source)
+
 
 ## Requirements
 
